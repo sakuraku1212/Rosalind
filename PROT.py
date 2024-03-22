@@ -26,6 +26,3 @@ RNA=Seq(RNA.read())
 RNA
 
 print(RNA.translate(to_stop=True))
-
-
-
