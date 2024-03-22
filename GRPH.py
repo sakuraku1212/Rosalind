@@ -42,3 +42,4 @@ for n in range (len(data)):
     if (data[a].seq)[len(data[a].seq)-3:len(data[a].seq)] == data[m+1].seq[0:3] and a!=m+1:
       print(data[a].id, data[m+1].id)
   a=a+1
+    
