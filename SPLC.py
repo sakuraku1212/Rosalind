@@ -39,3 +39,4 @@ def RS (data):
   return protein
 
 print(RS(data))
+ 
